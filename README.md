@@ -2,7 +2,7 @@
 
 # Giampier Aliaga Esquivel
 
-**Backend Developer · REST APIs · Node.js**
+**FullStack Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/giampier-aliaga)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://giampier-pixel.github.io/Portafolio-Frontend)
