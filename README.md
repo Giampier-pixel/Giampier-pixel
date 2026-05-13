@@ -85,9 +85,3 @@ What drives me is writing code that actually solves problems — maintainable, w
 | [API-Geolocalizacion-Node](https://github.com/Giampier-pixel/API-Geolocalizacion-Node) | Geolocation REST API | `Node.js` `Express` |
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Giampier-pixel&color=grey&style=flat-square&label=profile+views)
-
-</div>
