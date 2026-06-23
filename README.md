@@ -19,7 +19,7 @@ I work comfortably on both sides of the stack: crafting robust backend services 
 
 What drives me is writing code that actually solves problems — maintainable, well-structured, and ready to scale.
 
-- Based in **Perú**
+- Based in **Peru**
 - Experienced with REST API design, microservices, and cloud deployments
 - Comfortable across the entire stack: database → API → UI
 - Continuously learning and adapting to new technologies
@@ -70,9 +70,6 @@ What drives me is writing code that actually solves problems — maintainable, w
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claudecode.png)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
 
 ---
 
