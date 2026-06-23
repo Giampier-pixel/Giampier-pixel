@@ -41,7 +41,7 @@ What drives me is writing code that actually solves problems — maintainable, w
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+![Go](https://img.shields.io/badge/golang-gray?logo=go)
 
 **Frameworks**
 
@@ -70,7 +70,7 @@ What drives me is writing code that actually solves problems — maintainable, w
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VS Code](https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claudecode.png)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
 
